@@ -8,6 +8,9 @@
 - **Save Favorites**: Add recipes to your favorites for easy access later.
 - **Random Recipes**: Get inspired with randomly selected recipes.
 
+## the previwe 
+<img src="Screenshot 2025-05-06 003045.png" alt="screenshot">
+
 ## Technologies Used 🛠️
 
 - **Frontend**: React, Tailwind CSS, Framer Motion
@@ -15,8 +18,3 @@
 - **Backend**: [TheMealDB API](https://www.themealdb.com)
 - **Routing**: React Router
 
-## Installation and Setup ⚙️
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/recipe-world.git
